@@ -1,8 +1,6 @@
 # Docker for Beginners
 
-If you want to know the ABC's of Docker, this material can be useful for you. This is one of the brown bag session which I had hosted within Accenture UK.
-
-This presentation will brief you about how life was before Docker and how it has tremendously enhanced after adopting the Docker - Containerization technology.
+If you want to know the ABC's of Docker, this material can be useful for you. This presentation will brief you about how life was before Docker and how it has tremendously enhanced after adopting the Docker - Containerization technology.
 
 This presentation will help you to understand some of the useful topics like the difference between Docker and Virtual Machine, the Life cycle of the Docker container, common Docker operational commands, Docker Architecture, Dockerfile, Volumes, Docker Compose.
 
